@@ -1,7 +1,7 @@
 # Dukan Project
 
-Mera pehla R Project hai.
+This is my first R Project.
 
-Is mein maine dukan ki sale ka hisab lagaya hai.
+In this, I have calculated the sale of the shop.
 
 Total Sale = 25800
